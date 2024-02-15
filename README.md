@@ -10,7 +10,7 @@ To install requirements using pip, create a new virtual environment. Then run "p
 ## Overview
 See [writeup](https://gaoadam.github.io/docs/projects/parallelized_wave_simulation_engine/parallelized_wave_simulation_engine.html) for a more illustrative explanation.
 
-See other [writeup]() to see how I use **neural networks** to predict wave behavior using **Torch**.
+See other [writeup](https://gaoadam.github.io/docs/projects/wave_simulation_predictions/wave-simulation_predictions.html) to see how I use **neural networks** to predict wave behavior using **Torch**.
 
 See demo_simulation.ipynb for example use of the wavetorch.py module.
 
