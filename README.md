@@ -4,10 +4,13 @@
 First, clone the repository to a local folder of your choosing.
 
 Package requirements for installation can be found in requirements.txt or environment.yml.
+
 To install requirements using pip, create a new virtual environment. Then run "pip install -r requirements.txt" with the virtual environment active and in the directory of the cloned repository.
 
 ## Overview
 See [writeup](https://gaoadam.github.io/docs/projects/parallelized_wave_simulation_engine/parallelized_wave_simulation_engine.html) for a more illustrative explanation.
+
+See other [writeup]() to see how I use **neural networks** to predict wave behavior using **Torch**.
 
 See demo_simulation.ipynb for example use of the wavetorch.py module.
 
